@@ -1,1 +1,1 @@
-Folder of ipynb files of Qiaoying Zhang's EDA & Models on Weather and Air ticket pricing predictions.
+Folder of ipynb files of Qiaoying(Annie) Zhang's EDA & Models on Weather and Air ticket pricing predictions.
