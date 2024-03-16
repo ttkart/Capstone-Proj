@@ -22,7 +22,7 @@ Our final notebook is  within the folder [3-SW](https://github.com/ttkart/Capsto
     
     from sklearn.metrics import r2_score,mean_squared_error,mean_absolute_error
      
-**Step 2** - Download our finalized and cleaned dataset called 'merge.csv' from the [dataset](https://github.com/ttkart/Capstone-Proj/blob/main/Datasets/merge.csv) folder. 
+**Step 2** - Download our finalized and cleaned dataset called [merge_csv](https://github.com/ttkart/Capstone-Proj/blob/main/3-SW/merge.csv) within the [3-SW](https://github.com/ttkart/Capstone-Proj/blob/main/Datasets/merge.csv](https://github.com/ttkart/Capstone-Proj/tree/main/3-SW)) folder.
 
 **Step 3** - Our code is using google collab (in cell 2 & cell 3). Here is the code to read it locally:
 
