@@ -5,8 +5,8 @@ Authors - Karthika Thiruvallur, Qiaoying Zhang, Shivani Bhasin
 # Code Location
 Our final notebook is  within the folder [3-SW](https://github.com/ttkart/Capstone-Proj/blob/main/Datasets/merge.csv](https://github.com/ttkart/Capstone-Proj/tree/main/3-SW)) run the notebook called [DSC_288R_Group_3_Final_models.ipynb](https://github.com/ttkart/Capstone-Proj/blob/main/3-SW/DSC_288R_Group_3_Final_models.ipynb)
 
-# Instructions for running & compilation of code
-**Step 1** - Download the following necessary libraries:
+# Instructions for running & compilation of code 
+  Step 1 - Download the following necessary libraries:
 
     import pandas as pd
     
@@ -22,15 +22,15 @@ Our final notebook is  within the folder [3-SW](https://github.com/ttkart/Capsto
     
     from sklearn.metrics import r2_score,mean_squared_error,mean_absolute_error
      
-**Step 2** - Download our finalized and cleaned dataset called 'merge.csv' from the [dataset](https://github.com/ttkart/Capstone-Proj/blob/main/Datasets/merge.csv) folder. 
+Step 2 - Download our finalized and cleaned dataset called 'merge.csv' from the [dataset](https://github.com/ttkart/Capstone-Proj/blob/main/Datasets/merge.csv) folder. 
 
-**Step 3** - Our code is using google collab (in cell 2 & cell 3). Here is the code to read it locally:
+Step 3 - Our code is using google collab (in cell 2 & cell 3). Here is the code to read it locally:
 
      df = pd.read_csv('merge.csv')
 
      df.info()
 
-**Step 4** - After completing the above steps, begin to run the code from this cell 4 onwards. For reference, cell 4 states:
+Step 4 - After completing the above steps, begin to run the code from this cell 4 onwards. For reference, cell 4 states:
    
      X = df.loc[:, df.columns != 'Total_Mkt_Fare']
      y = df.Total_Mkt_Fare
