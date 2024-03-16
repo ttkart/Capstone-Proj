@@ -3,7 +3,7 @@
 Authors - Karthika Thiruvallur, Qiaoying Zhang, Shivani Bhasin
 
 # Running our code 
-Our final notebooks with our models, are within the folder 'Group 3 - Final Notebooks' and run the notebook - DSC_288R_Group_3_Final_models.ipynb
+Our final notebook is  within the folder 'Group 3 - Final Notebooks' run the notebook callled 'DSC_288R_Group_3_Final_models.ipynb'
 
 # Overall Research Project
 Predicting customer ticket prices for domestic flights based on departure cities vs arrival cities 
